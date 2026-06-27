@@ -1,1 +1,13 @@
+Pregunta 9 — Reflexión de la semana
 
+Respuesta:Dominar la línea de comandos para gestionar archivos no es nostalgia, sino una competencia técnica ineludible para cualquier ingeniero de software. A medida que un proyecto crece, la interfaz gráfica tradicional se 
+convierte en un lastre operativo; el ratón y las carpetas visuales están diseñados para el usuario final, no para quien construye la arquitectura interna de los sistemas.
+
+Una realidad profesional inmediata es que el código casi nunca se ejecuta donde se escribe. Los servidores de producción y contenedores virtualizados carecen de interfaz visual; sin comandos nativos para navegar por 
+el árbol de directorios, un programador queda incapacitado para configurar rutas, revisar registros de errores o ajustar permisos de seguridad en entornos remotos donde la terminal es el único canal de comunicación.
+
+Además, la interacción basada en texto permite la automatización del trabajo, eliminando el tiempo muerto y el error humano del arrastre manual de archivos. Desde la terminal, estructurar la jerarquía de un proyecto 
+o reubicar cientos de archivos específicos toma milisegundos mediante una sola línea de instrucciones lógicas, transformando la organización del entorno en un proceso programable y reproducible.
+
+Finalmente, la consola es el puente obligatorio hacia herramientas clave como el control de versiones y los gestores de dependencias, los cuales exigen saber exactamente en qué directorio se está posicionado para 
+evitar conflictos que rompan la aplicación. Al prescindir de abstracciones visuales, el desarrollador interactúa directamente con el sistema operativo, logrando la precisión indispensable para escalar software.
